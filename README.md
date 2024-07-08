@@ -28,6 +28,6 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/a1monge/Restaurant-Website.git
-2. **Clone the repository**:
-   cd Restaurant-Website
-4. **Clone the repository**:
+2. **Navigate to the project directory**:
+4. **Install dependencies**:
+5. **Start the development server**:
