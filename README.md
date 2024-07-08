@@ -29,5 +29,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/a1monge/Restaurant-Website.git
 2. **Navigate to the project directory**:
+   ```bash
+   cd Restaurant-website
 4. **Install dependencies**:
-5. **Start the development server**:
+   ```bash
+   npm install
+6. **Start the development server**:
+   ```bash
+   npm start
